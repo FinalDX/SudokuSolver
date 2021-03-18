@@ -1,3 +1,6 @@
-﻿  SudokuSolver.cpp
-c:\users\sean fenner\desktop\programming projects\c++\sudokusolver\sudokusolver\sudokusolver.cpp(156): warning C4018: '<': signed/unsigned mismatch
+﻿  main.cpp
+  SudokuSolver.cpp
+c:\users\sean fenner\desktop\programming projects\c++\sudokusolver\sudokusolver\sudokusolver.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\Sean Fenner\Desktop\Programming Projects\C++\SudokuSolver\Debug\SudokuSolver.exe not found or not built by the last incremental link; performing full link
   SudokuSolver.vcxproj -> C:\Users\Sean Fenner\Desktop\Programming Projects\C++\SudokuSolver\Debug\SudokuSolver.exe
